@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/my_program.dir/main.cpp.o CMakeFiles/my_program.dir/glad.c.o -o my_program  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lGLEW /usr/lib/x86_64-linux-gnu/libassimp.so.5.2.0 /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libdraco.so.4.0.0 -lminizip /usr/lib/x86_64-linux-gnu/librt.a 
