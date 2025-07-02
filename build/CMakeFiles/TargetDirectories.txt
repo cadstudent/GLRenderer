@@ -1,3 +1,0 @@
-/mnt/c/wsl/Softrender/build/CMakeFiles/my_program.dir
-/mnt/c/wsl/Softrender/build/CMakeFiles/edit_cache.dir
-/mnt/c/wsl/Softrender/build/CMakeFiles/rebuild_cache.dir
