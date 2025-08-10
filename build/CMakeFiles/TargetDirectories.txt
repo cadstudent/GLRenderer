@@ -1,0 +1,3 @@
+/mnt/c/wsl/CGLearnLibs/OpenGLRender/build/CMakeFiles/GLRender.dir
+/mnt/c/wsl/CGLearnLibs/OpenGLRender/build/CMakeFiles/edit_cache.dir
+/mnt/c/wsl/CGLearnLibs/OpenGLRender/build/CMakeFiles/rebuild_cache.dir
